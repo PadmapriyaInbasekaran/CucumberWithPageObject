@@ -1,0 +1,65 @@
+2023-06-23 12:49:20 INFO  LoginPageObject:32 - Login to amazon
+2023-06-23 12:49:30 INFO  LoginPageObject:34 - Get the current url
+2023-06-23 12:49:30 INFO  LoginPageObject:37 - Maximize the window
+2023-06-23 12:49:31 INFO  LoginPageObject:44 - click on sign in
+2023-06-23 12:49:33 INFO  LoginPageObject:46 - Enter mobile number
+2023-06-23 12:49:34 INFO  LoginPageObject:48 - click continue
+2023-06-23 12:49:35 INFO  LoginPageObject:54 - Verify incorrect mobile number message
+2023-06-23 12:49:35 INFO  LoginPageObject:56 - Click on Amazon logo
+2023-06-23 12:49:38 INFO  LoginPageObject:64 - Find the searchbar
+2023-06-23 12:49:38 INFO  LoginPageObject:71 - Enter redmi in the search bar
+2023-06-23 12:49:38 INFO  LoginPageObject:83 - click on search
+2023-06-23 12:49:50 INFO  LoginPageObject:77 - Result text should be visible
+2023-06-23 12:49:50 INFO  LoginPageObject:89 - Click on link
+2023-06-23 12:50:12 INFO  LoginPageObject:116 - CLick deliver to India
+2023-06-23 12:50:12 INFO  LoginPageObject:122 - Enter pincode in the textbox
+2023-06-23 12:50:14 INFO  LoginPageObject:128 - Click Apply
+2023-06-23 12:50:15 INFO  LoginPageObject:134 - Click continue
+2023-06-23 12:50:15 INFO  LoginPageObject:95 - Find add to cart button
+2023-06-23 12:50:23 INFO  LoginPageObject:109 - click
+2023-06-23 12:50:23 INFO  LoginPageObject:160 - Click No thanks
+2023-06-23 12:50:24 INFO  LoginPageObject:101 - Verify item added to cart
+2023-06-23 12:50:38 INFO  LoginPageObject:32 - Login to amazon
+2023-06-23 12:50:47 INFO  LoginPageObject:34 - Get the current url
+2023-06-23 12:50:47 INFO  LoginPageObject:37 - Maximize the window
+2023-06-23 12:50:48 INFO  LoginPageObject:44 - click on sign in
+2023-06-23 12:50:50 INFO  LoginPageObject:46 - Enter mobile number
+2023-06-23 12:50:50 INFO  LoginPageObject:48 - click continue
+2023-06-23 12:50:51 INFO  LoginPageObject:54 - Verify incorrect mobile number message
+2023-06-23 12:50:51 INFO  LoginPageObject:56 - Click on Amazon logo
+2023-06-23 12:50:57 INFO  LoginPageObject:32 - Login to amazon
+2023-06-23 12:51:05 INFO  LoginPageObject:34 - Get the current url
+2023-06-23 12:51:05 INFO  LoginPageObject:37 - Maximize the window
+2023-06-23 12:51:05 INFO  LoginPageObject:44 - click on sign in
+2023-06-23 12:51:07 INFO  LoginPageObject:46 - Enter mobile number
+2023-06-23 12:51:07 INFO  LoginPageObject:48 - click continue
+2023-06-23 12:51:08 INFO  LoginPageObject:54 - Verify incorrect mobile number message
+2023-06-23 12:51:08 INFO  LoginPageObject:56 - Click on Amazon logo
+2023-06-23 12:51:11 INFO  LoginPageObject:64 - Find the searchbar
+2023-06-23 12:51:11 INFO  LoginPageObject:71 - Enter redmi in the search bar
+2023-06-23 12:51:11 INFO  LoginPageObject:83 - click on search
+2023-06-23 12:51:17 INFO  LoginPageObject:77 - Result text should be visible
+2023-06-23 12:51:17 INFO  LoginPageObject:89 - Click on link
+2023-06-23 12:51:29 INFO  LoginPageObject:116 - CLick deliver to India
+2023-06-23 12:51:29 INFO  LoginPageObject:122 - Enter pincode in the textbox
+2023-06-23 12:51:30 INFO  LoginPageObject:128 - Click Apply
+2023-06-23 12:51:31 INFO  LoginPageObject:134 - Click continue
+2023-06-23 12:51:32 INFO  LoginPageObject:95 - Find add to cart button
+2023-06-23 12:51:39 INFO  LoginPageObject:109 - click
+2023-06-23 12:51:40 INFO  LoginPageObject:160 - Click No thanks
+2023-06-23 12:51:40 INFO  LoginPageObject:101 - Verify item added to cart
+2023-06-23 12:51:52 INFO  LoginPageObject:140 - Click on the cart icon
+2023-06-23 12:52:00 INFO  LoginPageObject:147 - Click delete
+2023-06-23 12:52:00 INFO  LoginPageObject:153 - Verify item removed from the cart
+2023-06-23 12:52:10 INFO  LoginPageObject:32 - Login to amazon
+2023-06-23 12:52:17 INFO  LoginPageObject:34 - Get the current url
+2023-06-23 12:52:17 INFO  LoginPageObject:37 - Maximize the window
+2023-06-23 12:52:17 INFO  LoginPageObject:44 - click on sign in
+2023-06-23 12:52:19 INFO  LoginPageObject:46 - Enter mobile number
+2023-06-23 12:52:19 INFO  LoginPageObject:48 - click continue
+2023-06-23 12:52:21 INFO  LoginPageObject:54 - Verify incorrect mobile number message
+2023-06-23 12:52:21 INFO  LoginPageObject:56 - Click on Amazon logo
+2023-06-23 12:52:24 INFO  LoginPageObject:64 - Find the searchbar
+2023-06-23 12:52:24 INFO  LoginPageObject:71 - Enter redmi in the search bar
+2023-06-23 12:52:25 INFO  LoginPageObject:83 - click on search
+2023-06-23 12:52:33 INFO  LoginPageObject:77 - Result text should be visible
